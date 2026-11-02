@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Akarsh K V - Web Developer from Kannur, Kerala, India" width="100%" />
+<img src="./assets/banner.jpg" alt="Akarsh K V - Web Developer from Kannur, Kerala, India" width="100%" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akarshkv1234-glitch.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarsh-kv)
