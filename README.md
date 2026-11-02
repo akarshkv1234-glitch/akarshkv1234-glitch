@@ -1,8 +1,6 @@
 <div align="center">
 
-# Akarsh K V
-
-**Web Developer · Kannur, Kerala, India**
+<img src="./banner.svg" alt="Akarsh K V - Web Developer from Kannur, Kerala, India" width="100%" />
 
 Building responsive, accessible websites and learning full-stack development.
 
