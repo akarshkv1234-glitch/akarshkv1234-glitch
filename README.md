@@ -2,8 +2,6 @@
 
 <img src="./banner.svg" alt="Akarsh K V - Web Developer from Kannur, Kerala, India" width="100%" />
 
-<a href="https://github.com/akarshkv1234-glitch"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Web+Developer;Frontend+Developer;Learning+Full-Stack+Development;Open+to+Opportunities" alt="Web Developer, Frontend Developer, Learning Full-Stack Development" /></a>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akarshkv1234-glitch.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarsh-kv)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akarshkv1234@gmail.com)
