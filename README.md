@@ -1,125 +1,81 @@
 <div align="center">
-
-<img src="./assets/banner.jpg" alt="Akarsh K V - Web Developer from Kannur, Kerala, India" width="100%" />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akarshkv1234-glitch.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarsh-kv)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akarshkv1234@gmail.com)
-
+<img src="assets/hero-premium.jpg" alt="Akarsh K V — Web Developer from Kannur, Kerala, India" width="100%" />
 </div>
 
-## About Me
+<br>
 
-I'm a web developer from Kannur, Kerala, India. I turn designs into fast,
-responsive and accessible websites, mostly with HTML, CSS, JavaScript and
-Bootstrap. I'm currently learning full-stack development with Python, Flask and
-Django, and building small automation tools along the way.
+I'm a web developer from Kannur, Kerala, India. I build responsive, accessible
+websites with HTML, CSS, JavaScript and Bootstrap, and I'm currently learning
+full-stack development with Python, Flask and Django.
 
-- Focused on responsive, mobile-first front-end development
-- Learning Python, Flask and Django
-- Exploring developer tooling and practical automation
-- Open to internships, junior developer roles and freelance work
+[Portfolio](https://akarshkv1234-glitch.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/akarsh-kv) · [Email](mailto:akarshkv1234@gmail.com)
 
-## Tech Stack
+---
 
-**Frontend**
+## Selected Work
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+A few projects where I focused on layout, responsiveness and clean front-end
+implementation.
 
-**Backend and Data**
+<a href="https://github.com/akarshkv1234-glitch/portfolio"><img src="assets/work-01.jpg" alt="Preview of my personal portfolio website" width="100%" /></a>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+### 01 — Personal Portfolio
 
-**Tools**
+A personal site with about, skills, resume, selected work and contact.
+`HTML` `CSS` `JavaScript` `Bootstrap` · [Live site →](https://akarshkv1234-glitch.github.io/portfolio/)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<br>
 
-## Featured Work
+<a href="https://github.com/akarshkv1234-glitch/SuzukiMotors"><img src="assets/work-02.jpg" alt="Preview of the Suzuki Motorcycles landing page" width="100%" /></a>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/akarshkv1234-glitch/portfolio"><img src="./assets/portfolio.jpg" alt="Personal portfolio homepage preview" width="100%" /></a>
-      <h3 align="center"><a href="https://github.com/akarshkv1234-glitch/portfolio">Personal Portfolio</a></h3>
-      <p align="center">My personal corner of the web: about, skills, resume, selected work and contact.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-        <a href="https://akarshkv1234-glitch.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Site-2EA44F?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit live site" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/akarshkv1234-glitch/SuzukiMotors"><img src="./assets/suzuki.jpg" alt="Suzuki Motorcycles landing page preview" width="100%" /></a>
-      <h3 align="center"><a href="https://github.com/akarshkv1234-glitch/SuzukiMotors">Suzuki Motorcycles</a></h3>
-      <p align="center">Responsive Suzuki Motorcycles India landing page with a hero carousel and model showcase.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-        <a href="https://akarshkv1234-glitch.github.io/SuzukiMotors/"><img src="https://img.shields.io/badge/Live_Site-2EA44F?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit live site" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/akarshkv1234-glitch/amazon-clone"><img src="./assets/amazon.jpg" alt="Amazon homepage clone preview" width="100%" /></a>
-      <h3 align="center"><a href="https://github.com/akarshkv1234-glitch/amazon-clone">Amazon Clone</a></h3>
-      <p align="center">A front-end recreation of the Amazon homepage with a responsive layout.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <a href="https://akarshkv1234-glitch.github.io/amazon-clone/"><img src="https://img.shields.io/badge/Live_Site-2EA44F?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit live site" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/akarshkv1234-glitch/netflix-clone"><img src="./assets/netflix.jpg" alt="Netflix landing page clone preview" width="100%" /></a>
-      <h3 align="center"><a href="https://github.com/akarshkv1234-glitch/netflix-clone">Netflix Clone</a></h3>
-      <p align="center">A responsive recreation of the Netflix landing page.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-        <a href="https://akarshkv1234-glitch.github.io/netflix-clone/"><img src="https://img.shields.io/badge/Live_Site-2EA44F?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit live site" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 02 — Suzuki Motorcycles
 
-## Currently Building
+Responsive landing page for Suzuki Motorcycles India with a hero carousel and
+model showcase.
+`HTML` `CSS` `JavaScript` `Bootstrap` · [Live site →](https://akarshkv1234-glitch.github.io/SuzukiMotors/)
 
-- A WhatsApp reminder and expense-tracking bot running in Docker with SQLite
-- A gold (XAU/USD) technical-analysis dashboard built with Flask and live market data
+<br>
 
-Both are private while I clean them up for release.
+<a href="https://github.com/akarshkv1234-glitch/amazon-clone"><img src="assets/work-03.jpg" alt="Preview of the Amazon homepage clone" width="100%" /></a>
 
-## GitHub Activity
+### 03 — Amazon Clone
 
-<div align="center">
+A front-end recreation of the Amazon homepage, from the navigation and search
+bar to the product sections.
+`HTML` `CSS` · [Live site →](https://akarshkv1234-glitch.github.io/amazon-clone/)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akarshkv1234-glitch&theme=github_dark" alt="GitHub contribution overview for akarshkv1234-glitch" width="100%" />
+<br>
 
-</div>
+<a href="https://github.com/akarshkv1234-glitch/netflix-clone"><img src="assets/work-04.jpg" alt="Preview of the Netflix landing page clone" width="100%" /></a>
 
-## Get In Touch
+### 04 — Netflix Clone
 
-I'm open to internships, junior web developer roles and freelance front-end work.
-The fastest way to reach me is by email.
+A responsive recreation of the Netflix landing page with a hero sign-up section
+and feature layout.
+`HTML` `CSS` · [Live site →](https://akarshkv1234-glitch.github.io/netflix-clone/)
 
-<div align="center">
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarsh-kv)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akarshkv1234@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akarshkv1234-glitch.github.io/portfolio/)
+## Capabilities
 
-</div>
+**Frontend** — HTML5, CSS3, JavaScript, Bootstrap  
+**Backend** — Python, Flask, Django, SQLite  
+**Tools** — Git, GitHub, Linux, Docker
+
+---
+
+## Currently
+
+Learning full-stack development with Python, Flask and Django. Building a
+WhatsApp reminder and expense-tracking bot, and a gold (XAU/USD) technical
+analysis dashboard.
+
+---
+
+## Let's Talk
+
+I'm open to internships, junior front-end roles and freelance work.
+
+**[akarshkv1234@gmail.com](mailto:akarshkv1234@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/akarsh-kv) · [Portfolio](https://akarshkv1234-glitch.github.io/portfolio/)
+
+<div align="center"><sub>Kannur, Kerala, India</sub></div>
